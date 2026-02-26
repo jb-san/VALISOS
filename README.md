@@ -1,5 +1,7 @@
 # VALISOS
 
+**THIS IS A WORK IN PROGRESS AI Agent-First Linux Distribution**
+
 **AI Agent-First Linux Distribution**
 
 VALISOS is a NixOS-based Linux distribution where an AI agent is the primary operator. Humans interact with their machine through messaging apps (Telegram, Signal, Discord) via [OpenClaw](https://github.com/openclaw/openclaw), and connect via Tailscale + RustDesk when they need direct access.
